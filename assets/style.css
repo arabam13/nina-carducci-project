@@ -102,9 +102,10 @@ body {
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
-  /* background-color: #beb45a; */
-  background-color: #99057e;
+  /* color: #fff; */
+  color: black;
+  background-color: #beb45a;
+  /* background-color: #99057e; */
   border-radius: 0;
 }
 .nav-pills .nav-link {
