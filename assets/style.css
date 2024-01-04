@@ -244,14 +244,6 @@ input[type='submit'] {
   padding: 0.5em 1em;
 }
 
-.footer {
-  display: flex;
-  justify-content: justify-between;
-  align-items: center;
-  position: relative;
-  margin: 20px auto;
-}
-
 .paragraphs {
   flex: 1;
   display: flex;
